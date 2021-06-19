@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my profile
 
 ![cukiprit github stats](https://github-readme-stats.vercel.app/api?username=cukiprit&show_icons=true&theme=radical)
 
